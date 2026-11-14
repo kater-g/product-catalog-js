@@ -5,7 +5,7 @@ const products = [
   {
     id: 1,
     title: "Ананасовый улун",
-    image: "../assets/tea_preview/pineapple_ulun.jpg",
+    image: "assets/tea_preview/pineapple_ulun.jpg",
     imageAlt: "Ананасовый улун — китайский ароматизированный чай",
     category: "Улун",
     description: [
@@ -46,7 +46,7 @@ const products = [
   {
     id: 2,
     title: "Земляничный улун 1 категории",
-    image: "../assets/tea_preview/strawberry_ulun.jpg",
+    image: "assets/tea_preview/strawberry_ulun.jpg",
     imageAlt: "Земляничный улун — китайский ароматизированный чай",
     category: "Улун",
     description: [
@@ -83,7 +83,7 @@ const products = [
   {
     id: 3,
     title: "Тропический улун",
-    image: "../assets/tea_preview/tropical_ulun.jpg",
+    image: "assets/tea_preview/tropical_ulun.jpg",
     imageAlt: "Тропический улун — китайский ароматизированный чай",
     category: "Улун",
     description: [
@@ -120,7 +120,7 @@ const products = [
   {
     id: 4,
     title: "Сливочный улун",
-    image: "../assets/tea_preview/cream_ulun.jpg",
+    image: "assets/tea_preview/cream_ulun.jpg",
     imageAlt: "Сливочный улун — китайский ароматизированный чай",
     category: "Улун",
     description: [
@@ -161,7 +161,7 @@ const products = [
   {
     id: 5,
     title: "Узбекский зеленый чай (Кок Чой)",
-    image: "../assets/tea_preview/kokchoi_greentea.jpg",
+    image: "assets/tea_preview/kokchoi_greentea.jpg",
     imageAlt: "Узбекский зеленый чай (Кок Чой)",
     category: "Зеленый чай",
     description: [
